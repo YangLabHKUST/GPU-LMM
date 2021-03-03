@@ -7,7 +7,7 @@ The GPU-LMM aims to perform large-scale genetic analysis by combining GPU comput
 
 ## Download and compile
 ### Download
-You can directly download the latest GPU version of LMM from the Github project. Now we only release the initial version and we keep updating it. https://github.com/YangLabHKUST/GPU-LMM/releases
+You can directly download the latest GPU version of LMM from the Github project.
 ### Compile 
 If you want to compile the GPU LMM by your own, you can reference to the makefile. 
 You can compile it with the following command
